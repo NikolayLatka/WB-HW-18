@@ -133,6 +133,8 @@ body {
 /* HERO */
 
 .hero {
+  width: 1600px;
+  margin: 0 auto;
   margin-bottom: 94px;
   height: 600px;
   text-align: center;
